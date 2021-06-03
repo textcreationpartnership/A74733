@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mercurius Hibernicus, or, The Irish mercurie. Briefly and truly relating the conditions, manners, and customes of the natives, with their most barbarous, inhumane, cruell, and bloudie stratagems. Who are chiefly animated and spurred on by the Iesuites, priests, friers and monks of the antichristian, popish, and hellish brood. With a true relation of the unchristian practices performed by the Lord Macquier and Macmahone, with the arraignment and sentence of the said Lord Macquier.</title>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74733</idno><idno type="EEBO-CITATION">50796712</idno>
+  <idno type="VID">159429</idno>
+  <idno type="EEBO-PROQUEST">2240887832</idno>
+  
+            <idno type="STC">Thomason E269_16</idno>
+            <idno type="OCLC">50796712</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A74733)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159429)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 45:E269[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mercurius Hibernicus, or, The Irish mercurie. Briefly and truly relating the conditions, manners, and customes of the natives, with their most barbarous, inhumane, cruell, and bloudie stratagems. Who are chiefly animated and spurred on by the Iesuites, priests, friers and monks of the antichristian, popish, and hellish brood. With a true relation of the unchristian practices performed by the Lord Macquier and Macmahone, with the arraignment and sentence of the said Lord Macquier.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Iohn Hammond.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Enniskillen, Connor Maguire, --  Baron of, 1616-1645.</term>
+               <term type="personal_name">MacMahon, Hugh Oge, 1606?-1644.</term>
+               <term type="geographic_name">Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:159429:1"/>
+            <head>MERCVRIVS HIBERNICVS, OR, The <hi>Jrish</hi> Mercurie. Briefely and truly relating the Conditions, Manners, and Customes of the Natives, with their most barbarous, inhumane, cruell, and bloudie Stratagems. Who are chiefely animated and spurred on by the <hi>Iesuites, Priests, Friers</hi> and <hi>Monks</hi> of the <hi>Antichristian, Popish.</hi> and Hellish Brood. With a true Relation of the unchristian Practises perfor<g ref="char:EOLhyphen"/>med by the Lord <hi>Macquier</hi> and <hi>Macmahone,</hi> with the Arraignment and Sentence of the said Lord <hi>Macquier.</hi>
+            </head>
+            <p>
+               <figure>
+                  <figDesc>crude woodcut of Mercury / Hermes</figDesc>
+               </figure>BY your leave, and lye further, you weekely Mercurians, for I am not of your straine, but I am a Mercurie that with head and heeles comes flying, not lying, Newes, either from Spaine, France, Den<g ref="char:EOLhyphen"/>marke, Holland, Scotland, Wales, London, or Oxford. I tooke wing in Ireland, and so slew over Sea, and lighted in England, but how I shall be entertained here, I know not, with my Message: yet the Printer hath seised on me, and now newly presied me for your service: and therefore I will breake open my Packet of Papers, and in briefe tearmes thus I salute you.</p>
+            <p>GEntle Reader, I doe here present to your view a briefe description of the Kingdome of <hi>Ireland,</hi> wherein is decla<g ref="char:EOLhyphen"/>red the fertilitie of the soyle, the nature, disposition, and beastly behaviour of those bloudie, barbarous, and more then in<g ref="char:EOLhyphen"/>humane people, whose inordinate lives doth sitter appertaine unto
+<pb n="2" facs="tcp:159429:2"/> Infidels and Heathens, then for those which in any respect professe the Name of Christ; for what Christians they are, let every re<g ref="char:EOLhyphen"/>ligious and godly man judge.</p>
+            <p>And who are the maine inducers of their execrable actions and bloody treacheries, but Jesuites, Seminaries, Massing Priests and Fryers, as you may perceive in this ensuing discourse?</p>
+            <p>But that which is to be most admired at, is the heathenish, bloody, menstrous, &amp; savage condition of the <hi>Jrish,</hi> whose Coun<g ref="char:EOLhyphen"/>try is scituated under so temperate a climate, that is neither op<g ref="char:EOLhyphen"/>pressed with extremity of cold in the Winter, nor with too much heate in the Summer, that is inuironed with <hi>England, Scotland, France,</hi> and <hi>Spaine,</hi> and hath had continuall entercourse, trade and traffick with those Nations, yet these People should yet remaine (as it doth) more like bruite Beasts then men, being Christians, (as they call themselues) Their Pedigree they derive from one <hi>Mack Swine,</hi> a barbarous off spring, as may be seene by their hoggish condition: they feare not God, nor obey any good lawes: they are strong Papists, and their onely delight is to kill, burne, and massacre all the Protestants, both men women and children, blood and mischiefe is the game wherein they most delight, for when that religous, true and honest men are at rest, these Rebells (or Woodkarne<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) doe burn and spoyle all by night; they leave not any kind of thing behind that may by conueied away; as horses, cowes, linnen, woollen, money, plate, pewter, brasse &amp;c. the rest they set on fire: now when they come to their Rendezvous, some Cowes they knock down, and the chiefest of the Rebells have the best of the meate, the others take the Liver, Guts and Intrailes, (never washing them) &amp; lay them on the coles to broile, so they eat th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m halfe raw, for their choppes will be all bloody and finely bedawb'd with the greene oyntment which come out of the puddings, being foulely polluted: Some boyle their meate in the Be<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ts skin with the haire on, driving stakes into the ground, placing the hide ther<g ref="char:EOLhyphen"/>on, and so putting in water, they make a fire vnder the same: o<g ref="char:EOLhyphen"/>thers they roast, (after their beastly fashion) and every one is his owne Cooke, and tag and rag are all fellowes. The ground is their Table, and their Cushions are Straw or Rushes and for Napkins Tablecloaths or Trenchers they take little care for, and their chie<g ref="char:EOLhyphen"/>fest Dishes are of Wood, which they place most vndecently on their green-grasse Carpet or Table-cloth. Then before the Lord
+<pb n="3" facs="tcp:159429:2"/> doth sit down either with his Wife or Concubine (it is no matter whether, for he will change them when he please, and take others) he intreateth the Frier to sit downe first, (who is for his Soule,) and then next to him placeth his Chirurgion (who is for his Bo<g ref="char:EOLhyphen"/>dy,) and then he and his Mistresse taketh their roomes: But be<g ref="char:EOLhyphen"/>fore they sit downe the Frier blesseth the Rebell and his beloved, with all the Rogues in the Place: then they pull out long stabbers in stead of knives, and with them they slash out such pretty mor<g ref="char:EOLhyphen"/>cells as would make a man loath to see the blood run about their nasty choppes; bread they eate seldom and their drinke is either Milke or Broth of their meate (which the Chirurgion sweares is very good Physick,) if the Broth be sea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, false water is at hand▪ then to their <hi>Vscabough</hi> or Aquavita-bottell, if they can get it, and their snuffe Tobacco.</p>
+            <p>Now when they have filled their panches; then begins their pastime, for up starts a <hi>Bard</hi> and a <hi>Harper,</hi> and they begin the melodie, (the <hi>Bard</hi> is a Rimer or Singer;) and then he begins to sing of all the bloody Battels and Conquests that their Ancestors and fore-Fathers have done; which spurreth on the Rebells more eagerly to follow their Fathers steps, (as ill Rootes beare bad Fruites,) &amp; more to augment the flame &amp; rancour of their hearts the Fryer he begins with his hellish councell; he perswades the Rebells that it is an high worke of merit, charitie, and a godly deed to spoyle, kill, massacre and burne all the Protestants and o<g ref="char:EOLhyphen"/>thers which are loyall Subjects, that will not submit to the Jdola<g ref="char:EOLhyphen"/>trous Superst<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion of their Antichristian Father the Pope, and he promiseth them that he hath Pardons for them all from his holy<g ref="char:EOLhyphen"/>nesse, and that they for the same shalbe free for ever from the firy flames of Purgatory (this is a Ghostly Fryer, and as innocent as <hi>Judas</hi>) when he hath ended his learned &amp; charitable <hi>Oration</hi> then he b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>esseth (or crosseth the wicked rabble) &amp; biddeth them golon in their bloody stratagems (on Gods name,) then on they march in multitudes, resolving by their valour and their Popish; fathers blessing to get the victory.</p>
+            <p>They commonly march by three and three in rankes, brag<g ref="char:EOLhyphen"/>ging and making a great shew, but when they come heare our Armies then they leave their warlike array and cling together in heape, supposing it to be the most secure; then with a hideous and howling cry, they make a Hubbub, vowing to be the death and
+<pb n="4" facs="tcp:159429:3"/> confusion of all the Protestant Heretikes (as they doe call us) that breatheth: a great paire of bagpipes serveth for their Trumpet and Drum.</p>
+            <p>But when they have tryed the valour of our forces, the terrour of our shot, and the sharpness of our swords, their hearts begin to faint; yet for a while they wil stand stifly unto it: but when they find the skirmish too hot (for al their great boasts) their bagpipes soundeth a retreat, and the popish-Friar laments and mourns for the slaughter of his poor Wood-karns, cursing as bl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ck as pi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch their oppressors: and then after their death he purchaseth their p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<g ref="char:EOLhyphen"/>dons, Bel, Book, &amp; Candle with him is in great request. Now their hearts and valour faint, &amp; grow very cold, and they are more wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ling to fly then to fight: the reason is, they wil not take blowes if they can shun them, for their light heels are far better then their hands; for the remnant of those which are left unslain, doth either fly to the woods or bogs (in their own countrey) for their more safety &amp; shelter: Their behaviour is rude, their clothing nasty, and their breeding in all points sutable to the rest.</p>
+            <p>Yet is the countrey plentifully stored with flowing streams, goodly havens, and pleasant rivers in most parts of the land being famous for merchandise and trade; and by reason of the plenty of waters, there is abundance of all sorts of fish and foule; as also abun<g ref="char:EOLhyphen"/>dance of all sorts of cattle necessary for the sustenance of man, only they are troubled with some Wolves, according to the condition of the natives, who are more brutish then Beasts, having neither grace, nor the feare of God before their eyes, being wholly given to sensuality and lust: There is of woods plenty, Sea-coale, and Al<g ref="char:EOLhyphen"/>lom: some mines of gold and silver: and in sundry places Pearles are found: It produceth many Planets, and hearbs necessary for the health of man.</p>
+            <p>The people are much given to sorcery, witch-craft, and superstition: <hi>Bony-clahber</hi> is a dainty dish with them, which is milke boyled to curdles in a vessel, that hath ever scapt a scowring: and as for their butter (which those cleanly Huswives make) it is of as many colours as the Rain-bow, and that is either sttayned through their durty smocks (which they seldom wash in a twelve moneth, or)
+<pb n="5" facs="tcp:159429:3"/> through straw or rushes, whereon their Dogs, Hogs, Pigs, and Cattle all lye together in one room: Their Cheese is made after the like cleanly fashion, with Goats, Cows and Sheeps milke in a medly, which is then laid to dry in the smoke, til it looketh like rusty Bacon, and is so ranke that few but of their owne Nation can digest it: the bread they most usuall make is of Oatemeale, which is in Cakes either round or triangular, which they cal banages and straudaghes. I told you before that they had a great store of foule and beasts, for so they have, for there is foule Dishes, foule Vessels, foule Houses, foule Linni, and foule Sowes; but the beasts are generall smal, the Wo<g ref="char:EOLhyphen"/>men excepted.</p>
+            <p>If I should relate what affiance they have of their re<g ref="char:EOLhyphen"/>diculous Saint <hi>Patricks</hi> purgatory, of the holy Crosse, and divers other places of pilgrimage which are in divers places frequented by them, I should deliver my strange fopperie, not onely of the blind zeale, (and sometimes of the uncivil demeanure of the pilgrimes themselves) by which they cheated, cosened and deceive by their Ghosty Fathers, that for their owne lucre and gaine doth delude them with strange Voices, Visions and Devises, more fitter to be langhed at then to be beleeved.</p>
+            <p>It were as strange to deliver the manner which they vse in the buriall of the dead; and he that were but at Dubline it selfe, (which is the chiefest City) and should see a dead Corpes brought to the Grave, would say, that there could not be a more Heathenish demeanour, no not among a People that had neither knowne or heard of GOD.</p>
+            <p>For the blessing which it hath pleased GOD to vouch<g ref="char:EOLhyphen"/>safe to that Country in purging it from al sorts of veno<g ref="char:EOLhyphen"/>mous beasts &amp; wormes, this benifit they ascribe only to their S<seg rend="sup">t</seg>. <hi>Patrick,</hi> &amp; wil in no wise acknowledge it be the blessing of God; for it is certain, that no toade, frog, snake, adder, spider or the like wil live there.</p>
+            <pb n="6" facs="tcp:159429:4"/>
+            <p>I could here relate more of their Jrish customes which is strange to be delivered; as of their <hi>Brehon</hi> Law, and their Lawes <hi>Tamestry,</hi> and of their Lord and Captaine called <hi>Tamest,</hi> chosen for divers considerations, &amp; how amongst them every great Mans Will and Commandement is a Law (especially amongst their own, Tenants: For <hi>Ireland</hi> hath evermore strived to run into all lawlesse and irregular courses, whereby they are growne into such a habit of s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vage tyranny that nothing is more pleasing to the greatest number of them then Civill Warres, murthers and massacres, whereunto they are commonly inclind; so there wants not those amongst them to prick them forward, and to stirre them up to treason and murther, that are still conspiring; still pratising, and still indevoring to draw them into that mortall plague of Rebellion, which is not to be cured but by the Sword, by common slaughter and spilling of blood.</p>
+            <p>And thus we see that the greatest part of the People of that Kingdome hath bin from time to time thus drawne &amp; stirred up by those seducing vipers, &amp; Firebrands of Hell, the bloody Jesuites &amp; Priests of the Antichristian Church of <hi>Rome,</hi> the fruite of whose willfull obedience is to exempt themselves both from the Lawes of God and Man, insomuch that if any Prince b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gin to punish their disobedience, they either depose him or cause him to be murthered or poysoned, and then they curse him immediatly to the bottom<g ref="char:EOLhyphen"/>lesse pit of Hell. They teach them to fly from Christ, and to wor<g ref="char:EOLhyphen"/>ship <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aints, who us the Papists themselves suppose, are most cru<g ref="char:EOLhyphen"/>ell and mercilesse tyrants, who will wreake their revenge if their Evens be not fasted on, their Jmages visited, saluted &amp; worshipped with a Paternoster, with a Candle, with Jncense or Offerings. They terrifie and fray them with their painefull Purgatory, the s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orching heat whereof is such, that it hath not onely consumed infinite treasure both of Gold and Silver, out of ignorant mens purses, but it hath likewise melted castles. Mannours, buildings, Land and Tenements innumirable, to the profit of Monkes, Friers, Nunes, and Priests who have made many great and Rich m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n to rob their Heires, to give prepetuities to these Hypocrites to buy perpetuall prayer for them after death; for they never appoint a<g ref="char:EOLhyphen"/>nytime of deliverance fearing that the sands should returne back againe to the right Heires.</p>
+            <p>Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s is the Doctrine, charity and love of the Pope and his dam<g ref="char:EOLhyphen"/>ned crew, to them that give them much, they love much, and to
+<pb n="7" facs="tcp:159429:4"/> them that give little, them they love a little but to them that give them nought, they love nought; so that all their love is belly love, all their prayer belly prayer, all their brother-hood, belly brother-hood, and for those that will not pamper them, there is no love, no prayer, no brother-hood, no kindred, nor knowledge.</p>
+            <p>Now if God were their Father, then would they love Christ his Son, and seek to set forth his glory, who blesseth us, not curseth us; and if they were of the sheep-fold of God, then would they heare his voice: but they are of their Father the Devil, and the lusts of their Father they will doe, they are in name the servants of Christ, but in their acts they shew themselves to be the mem<g ref="char:EOLhyphen"/>bers of Antichrist; they change peace into war, they turne judge<g ref="char:EOLhyphen"/>ment into gall, and the fruit of righteousnesse into worm-wood: they resist the truth of God, to establish the devises and doctrine of men, they pretend shew of holinesse, through the which they draw to themselves credit, they have only a painted visard, and car<g ref="char:EOLhyphen"/>ry an empty name of the Church: What is their wilful chastity, but an obedience condemned in the Scripture, to give God that which hee hath not given us, and so to make sin where there was none at al? the fruits whereof, is daily corrupting of other mens wives, and to live in open and common whordome, with other ab<g ref="char:EOLhyphen"/>hominations filthy to be spoken of. Thus in briefe have I related some of the divilish practises of the Pope, &amp; his bloody instru<g ref="char:EOLhyphen"/>ments, who in multitudes flock over daily into this King<g ref="char:EOLhyphen"/>dome of England, to eclipse the light of the sacred Gospel: But I hope that God wil give us his holy Spirit, that we may discern the truth from falshood: And when his will and pleasure is, he will in his good time open the eyes and hearts of these blind Hereticks.</p>
+         </div>
+         <div type="text">
+            <head>The bloody Life, Cruell practices, and treacherous plots of the Lord <hi>Macquire,</hi> that so much noted arch Jrish Rebell, with his arraignement at the Kings bench Bar, and sentence of Death.</head>
+            <p>MAny and evil hath the dayes bin of those poor distressed people, I meane those soul-wounded Protestants in <hi>Jreland,</hi> caused by the cruelty of those barbarous minded men, Lord <hi>Macquire</hi> and <hi>Mac<g ref="char:EOLhyphen"/>mahone,</hi> those Arch-grand Irish Rebels, at whose black deeds the Sun blusht, &amp; the Moon put on a vail of sadnesse, like black mischiefs
+<pb n="8" facs="tcp:159429:5"/> twins they strove who should exceed others in mischief whose hour<g ref="char:EOLhyphen"/>ly musick were the dying groans of Protostants; their chiefest de<g ref="char:EOLhyphen"/>lights, inuentions of cruelty and daily sights the tortured Soules of those mangled by their cruelty: of which sad miseries the unhappy Province of <hi>Vister,</hi> made unhappy by their cruelty did beare a sad part, wherein was slain one hundred and fifty foure thousands, of poore distressed Soules, such was the pittilesse cruelty of these blood-thursty Payre whose sanguin soules knowes no pitty: how many Children have they buried alive, canniball-like they have fed upon the flesh, of inocent Protestants, boasting in their cruelty, saying that they never faired better then when they suck't the blood of Jnfants, and fed upon the flesh of Protestants, how many womens wombes have they ript up. I blush to speake it, makeing them a troffe for swine to feed on, which after was devowred by them, here might you see Cityes, Townes, and Castles like a second <hi>Troy</hi> all on a fire, whilst the Inhabitants persist in the flame, what shall I say more then thousand Soules has their cruelty brought to ruin, and their wickednesse to atimelese end: such has bin the miseries of our poor brethren of <hi>Ireland,</hi> under the barbarous usage of those brace of villions: yet not content they thought to seize upon the Castle of Dublin, and to kill and make a<g ref="char:EOLhyphen"/>way the Lords and Councel that were in the same: but God the knower and searcher of all hearts and hater of all treacherous actions disco<g ref="char:EOLhyphen"/>vered their damnable practises, for meeting with one <hi>Oneale,</hi> a sup<g ref="char:EOLhyphen"/>posed friend of theirs, to him he disclosed their intent, who misliked of the same revealed the plot; and being apprehended, and since found guilty, they were by the wisdoms of Iudges sent to the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England:</hi> for which Kingdoms Crown they formerly had cast dice for, before whom their bloody actions being discovered, and found guilty: the one <hi>Macmahon,</hi> was on the <hi>18.</hi> of <hi>November 1644.</hi> at Tyburne drawne, hanged and quartered. The other because a Peer. desired tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he might be iudged by Peers: but not granted, he was on Tuesday the <hi>11.</hi> of <hi>February</hi> brought to the Kings Bench bar: and though he excepted against two severall Iuries, able, honest, and suf<g ref="char:EOLhyphen"/>ficient men: and for all his several crotches he was at last found guilty of high treason and condemned to be hanged, drawn and quartered: a just reward for so unjust a Traytor,</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London printed by</hi> Iohn Hammond. 1645.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
